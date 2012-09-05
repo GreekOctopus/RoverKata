@@ -1,0 +1,11 @@
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Tests\bin\Debug\RoverKata.Tests.dll
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Tests\bin\Debug\RoverKata.Tests.pdb
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Tests\bin\Debug\RoverKata.Model.dll
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Tests\bin\Debug\RoverKata.Model.pdb
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Tests\obj\Debug\RoverKata.Tests.dll
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Tests\obj\Debug\RoverKata.Tests.pdb
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Tests\bin\Debug\nunit.framework.dll
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Vasilis.Papageorgiou\Documents\Visual Studio 2010\Projects\RoverKata\RoverKata.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\Vasilis.Papageorgiou\Documents\Visual Studio 2010\Projects\RoverKata\RoverKata.Tests\bin\Debug\Rhino.Mocks.xml

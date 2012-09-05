@@ -1,0 +1,11 @@
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Model\bin\Debug\RoverKata.Model.dll
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Model\bin\Debug\RoverKata.Model.pdb
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Model\obj\Debug\ResolveAssemblyReference.cache
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Model\obj\Debug\RoverKata.Model.dll
+c:\users\vasilis.papageorgiou\documents\visual studio 2010\Projects\RoverKata\RoverKata.Model\obj\Debug\RoverKata.Model.pdb
+C:\Users\Vasilis.Papageorgiou\Documents\Visual Studio 2010\Projects\RoverKata\RoverKata.Model\bin\Debug\nunit.framework.dll
+C:\Users\Vasilis.Papageorgiou\Documents\Visual Studio 2010\Projects\RoverKata\RoverKata.Model\bin\Debug\nunit.framework.xml
+C:\Users\Vasilis.Papageorgiou\Documents\Visual Studio 2010\Projects\RoverKata\RoverKata.Model\bin\Debug\Castle.Core.dll
+C:\Users\Vasilis.Papageorgiou\Documents\Visual Studio 2010\Projects\RoverKata\RoverKata.Model\bin\Debug\Castle.Windsor.dll
+C:\Users\Vasilis.Papageorgiou\Documents\Visual Studio 2010\Projects\RoverKata\RoverKata.Model\bin\Debug\Castle.Core.xml
+C:\Users\Vasilis.Papageorgiou\Documents\Visual Studio 2010\Projects\RoverKata\RoverKata.Model\bin\Debug\Castle.Windsor.xml
